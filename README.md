@@ -8,6 +8,10 @@ This project extends a chatbot to support English, French, Spanish, German, and 
 ## Background
 The chatbot addresses the global need for multilingual communication by leveraging NLP models like Facebook's M2M100 for translation and language understanding.
 
+* MODEL_URL
+[URL](https://huggingface.co/facebook/m2m100_418M)
+
+
 ## Learning Objectives
 * Implement automatic language detection and translation.
 * Provide culturally relevant responses.
